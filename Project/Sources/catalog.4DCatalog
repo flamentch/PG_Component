@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE base SYSTEM "http://www.4d.com/dtd/2007/base.dtd" >
+<base name="PG_Component" uuid="52B78BB64FE446C8B2CE0CE776F15D29" collation_locale="en">
+	<schema name="DEFAULT_SCHEMA"/>
+</base>
