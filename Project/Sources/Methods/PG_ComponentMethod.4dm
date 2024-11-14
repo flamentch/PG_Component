@@ -1,7 +1,7 @@
 //%attributes = {"shared":true}
 
 If (False:C215)
-	KR_ComponentMethod
+	PG_ComponentMethod
 End if 
 
-ALERT:C41("KR_Component loaded ...")
+ALERT:C41("PG_Component loaded ...")
