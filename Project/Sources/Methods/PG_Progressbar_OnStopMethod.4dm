@@ -1,4 +1,4 @@
-//%attributes = {}
+//%attributes = {"shared":true}
 
 If (False:C215)
 	PG_Progressbar_OnStopMethod

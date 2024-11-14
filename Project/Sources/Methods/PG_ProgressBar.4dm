@@ -1,4 +1,4 @@
-//%attributes = {}
+//%attributes = {"shared":true}
 #DECLARE($payload_ob : Object)->$result_ob : Object
 
 If (False:C215)
